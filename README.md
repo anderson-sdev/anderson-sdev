@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Anderson
 
-<!--
-**anderson-sdev/anderson-sdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Front-end Web**, focado em aprender e evoluir constantemente.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
+- HTML5
+- CSS3
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Atualmente estudando
+- JavaScript (lógica e fundamentos)
+- Boas práticas de front-end
+- Projetos com HTML, CSS e JS
+
+## 🎯 Objetivo
+Conseguir uma oportunidade de **estágio ou vaga júnior em Front-end**.
+
+## 🔗 Contato
+- www.linkedin.com/in/anderson-de-jesus-silva-647494383
