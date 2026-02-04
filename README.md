@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Anderson
+# 👋 Olá, eu me chamo Anderson!
 
 Sou estudante de **Front-end Web**, focado em aprender e evoluir constantemente.
 
