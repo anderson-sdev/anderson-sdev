@@ -1,6 +1,6 @@
 # Hi there, I'm Anderson Silva 👋
 
-### 🚀 Front-End Developer | React Specialist | Freelancer
+### 🚀 Front-End Developer | React
 
 I am a passionate **Front-End Developer** based in Brazil, specializing in building high-performance, responsive, and visually stunning web applications for clients worldwide. With a keen eye for design and a focus on clean, scalable code, I bridge the gap between complex backend logic and elegant user experiences.
 
@@ -20,8 +20,8 @@ I am a passionate **Front-End Developer** based in Brazil, specializing in build
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anderson-sdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-sdev&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
