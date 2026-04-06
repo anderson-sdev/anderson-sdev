@@ -40,7 +40,7 @@ I'm currently open to freelance opportunities and international contracts.
 * 💼 **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/
 anderson-de-jesus-silva-647494383
 )
-* 📧 **Email:** [your-email@example.com](mailto:your-email@example.com)
+* 📧 **Email:** [www.linkedin.com/in/anderson-de-jesus-silva-647494383](mailto:your-email@example.com)
 * 🌎 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
 
 ---
