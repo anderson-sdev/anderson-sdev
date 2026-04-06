@@ -15,5 +15,4 @@ Sou estudante de **Front-end Web**, focado em aprender e evoluir constantemente.
 ## 🎯 Objetivo
 Conseguir uma oportunidade de **estágio ou vaga júnior em Front-end**.
 
-## 🔗 Contato
-- www.linkedin.com/in/anderson-de-jesus-silva-647494383
+
