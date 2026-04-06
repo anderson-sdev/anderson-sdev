@@ -37,10 +37,8 @@ I am a passionate **Front-End Developer** based in Brazil, specializing in build
 
 I'm currently open to freelance opportunities and international contracts.
 
-* 💼 **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/
-anderson-de-jesus-silva-647494383
-)
-* 📧 **Email:** www.linkedin.com/in/anderson-de-jesus-silva-647494383
+* 💼 **LinkedIn:** [Anderson de Jesus Silva](https://www.linkedin.com/in/anderson-de-jesus-silva-647494383)
+* 📧 **Email:** seu-email@exemplo.com
 * 🌎 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
 
 ---
