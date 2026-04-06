@@ -12,7 +12,6 @@ Sou estudante de **Front-end Web**, focado em aprender e evoluir constantemente.
 - Boas práticas de front-end
 - Projetos com HTML, CSS e JS
 
-## 🎯 Objetivo
-Conseguir uma oportunidade de **estágio ou vaga júnior em Front-end**.
+
 
 
