@@ -1,23 +1,23 @@
-# Hi there, I'm Anderson Silva 👋
+# Olá, eu sou Anderson Silva 👋
 
-### 🚀 Front-End Developer | React
+### 🚀 Desenvolvedor Front-End | React
 
-I am a passionate **Front-End Developer** based in Brazil, specializing in building high-performance, responsive, and visually stunning web applications for clients worldwide. With a keen eye for design and a focus on clean, scalable code, I bridge the gap between complex backend logic and elegant user experiences.
+Sou um **Desenvolvedor Front-End** apaixonado, baseado no Brasil, especializado na criação de aplicações web de alta performance, responsivas e visualmente impressionantes para clientes do mundo todo. Com um olhar atento ao design e foco em código limpo e escalável, faço a ponte entre lógicas complexas de back-end e experiências de usuário elegantes.
 
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ Minha Stack de Tecnologias
 
-| Category | Technologies |
+| Categoria | Tecnologias |
 | :--- | :--- |
-| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| **Frameworks/Libs** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| **Linguagens** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| **Frameworks/Bibliotecas** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
 | **Design** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
+| **Ferramentas** | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
 
 ---
 
-### 📈 GitHub Stats
+### 📈 Estatísticas do GitHub
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anderson-sdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
@@ -26,20 +26,18 @@ I am a passionate **Front-End Developer** based in Brazil, specializing in build
 
 ---
 
-### 🌟 Why work with me?
+### 🌟 Por que trabalhar comigo?
 
-* **Pixel Perfect:** I translate Figma designs into code with absolute precision.
-* **Performance First:** Optimized React components for fast loading and SEO.
-* **Global Collaboration:** Fluent in the workflows required for remote, international freelance projects.
-* **Clean Code:** Maintainable, well-documented, and version-controlled via Git.
+* **Pixel Perfect:** Transformo designs do Figma em código com precisão absoluta.
+* **Performance em Primeiro Lugar:** Componentes React otimizados para carregamento rápido e SEO.
+* **Colaboração Global:** Familiaridade com fluxos de trabalho para projetos freelancers remotos e internacionais.
+* **Código Limpo:** Código de fácil manutenção, bem documentado e versionado com Git.
 
-### 📫 Let's Connect!
+### 📫 Vamos nos conectar!
 
-I'm currently open to freelance opportunities and international contracts.
+Atualmente estou aberto a oportunidades de freelance e contratos internacionais.
 
-* 💼 **LinkedIn:** [Anderson de Jesus Silva](https://www.linkedin.com/in/anderson-de-jesus-silva-647494383)
-* 📧 **Email:** seu-email@exemplo.com
-* 🌎 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
+* 📧 **E-mail:** seu-email@exemplo.com
 
 ---
 
